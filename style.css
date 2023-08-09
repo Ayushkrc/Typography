@@ -1,0 +1,23 @@
+#heading{
+    text-align: center;
+}
+
+img{
+    margin-left: 25%;
+}
+
+#content{
+    width: 30%;
+    color: gray;
+    margin: auto;
+}
+
+#video iframe{
+    margin-left: 35%;
+}
+
+footer{
+    width: 30%;
+    color: gray;
+    margin: auto; 
+}
